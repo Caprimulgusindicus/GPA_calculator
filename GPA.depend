@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1437292816 source:c:\users\fsszns\desktop\hdoj\gpa\main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+	<stdio.h>
+	<fstream>
+
